@@ -1,0 +1,12 @@
+[submodule "external/bootstrap-scons"]
+	path = external/bootstrap-scons
+	url = git@github.com:jediry/bootstrap-scons.git
+[submodule "external/inca"]
+	path = external/inca
+	url = git@github.com:jediry/inca.git
+[submodule "external/vcpkg"]
+	path = external/vcpkg
+	url = git@github.com:Microsoft/vcpkg.git
+[submodule "external/scons-tools"]
+	path = external/scons-tools
+	url = git@github.com:jediry/scons-tools.git
